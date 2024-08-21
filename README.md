@@ -1,6 +1,6 @@
 ### Hi 👋, I'm [Dionel Martinez](https://dionelcm.web.app)
 Argentina, 21 years old. <br/>
-**Status:** Open to work. 
+**Status:** Working freelance 💼
 
 - 🥋 Experienced building **web apps**, mainly with **MEAN stack**.
 - 📚 **Always learning** new things besides programming, sush as **graphic design**, **geography** and **Japanese**.
